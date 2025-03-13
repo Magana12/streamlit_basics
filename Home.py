@@ -172,7 +172,7 @@ st.error("Failed to load the image")
 #project structure and create a new directory and name it pages(in lower case), appears on the sidebar
 #pushing project to github using IDE
 
-
+st.write("This is so frustrating")
 
 
 
